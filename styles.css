@@ -1,0 +1,131 @@
+.bg2{
+  width: 50%;
+
+}
+
+.mynavbar{
+  width: 100vw;
+  background-color: white;
+}
+
+.mylogo{
+  height:40px;
+  width: 40px;
+}
+.part-2{
+  height: auto;
+  display: flex;
+}
+
+.part-2-2{
+  padding: 120px 60px;
+  font-weight: 300;
+  letter-spacing: 1;
+  align-items: center;
+  justify-content: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-weight: 300;
+    letter-spacing: 1;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    font-size: 35px;
+    border: 5px solid white;
+    padding: 150px;
+}
+
+hr{
+  width: 30%;
+  border: none;
+  color: grey;
+  border-style: dotted;
+}
+.bg{
+  height: 50%;
+}
+.main-button{
+  background-color: white;
+    border-radius: 20px;
+    border: none;
+    color: black;
+    height: 50px;
+    width: 100px;
+}
+
+h3{
+  color: gray;
+  text-align: center;
+  font-weight: 300;
+}
+
+.p1{
+  text-align: center;
+  font-weight: 100;
+}
+.button-black-2{
+    background-color: gray;
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+    color: white;
+    border: none;
+}
+
+.button-2{
+    background-color: gray;
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+    color: white;
+    border: none;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+p{
+  color: grey;
+}
+
+.p2{
+  color: black;
+}
+.part-4{
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.part-5{
+  display: flex;
+  height: auto;
+}
+
+.part-5-1{
+  width: 50vw;
+  font-weight: 300;
+  letter-spacing: 1;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-align-centre{
+  text-align: center;
+}
+
+.part-8{
+  display: flex;
+
+}
+
+.part-8-1{
+  padding: 25px 25px;
+}
